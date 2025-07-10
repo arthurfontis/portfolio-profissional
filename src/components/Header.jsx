@@ -1,5 +1,6 @@
 import './Header.css'
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default props =>
     <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
@@ -16,19 +17,16 @@ export default props =>
         </div>
         <ul class="nav col-12 col-md-auto mb-2 justify-content-center flex-grow-1 mb-md-0">
             <li>
-                <a href="#" class="nav-link px-2 " id='link'>Início</a>
+                <Link className="nav-link px-2" id="link" to="/">Início</Link>
             </li>
             <li>
-                <a href="#" class="nav-link px-2 " id='link'>Sobre Mim</a>
+                <Link className="nav-link px-2" id="link" to="/sobre">Sobre Mim</Link>
             </li>
             <li>
-                <a href="#" id='link' class="nav-link px-2 ">Projetos</a>
+                <Link className="nav-link px-2" id="link" to="/projetos">Projetos</Link>
             </li>
             <li>
-                <a href="#" id='link' class="nav-link px-2 ">Contato</a>
-            </li>
-            <li>
-                <a href="#" id='link' class="nav-link px-2 ">About</a>
+                <Link className="nav-link px-2" id="link" to="/contato">Contato</Link>
             </li>
         </ul>
         <div class="col-md-3 text-end">
