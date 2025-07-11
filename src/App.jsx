@@ -9,7 +9,7 @@ import { BrowserRouter } from "react-router-dom";
 import AppRoutes from "./Routes";
 
 export default props =>
-    <BrowserRouter>
+    <BrowserRouter basename="/portfolio-profissional">
         <div className="app">
             <Header />
             <AppRoutes />
