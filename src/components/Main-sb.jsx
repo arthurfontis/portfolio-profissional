@@ -60,7 +60,7 @@ export default props =>
         </h2>
         <p className='obj-pro p-2'>
             <p>
-                Sou uma pessoa com <strong>facilidade de aprendizado</strong> e bastante <strong>curiosa</strong>, sempre pronta para enfrentar novos desafios.
+                Sou uma pessoa com <strong>facilidade de aprendizado</strong> e bastante <strong>curioso</strong>, sempre pronto para enfrentar novos desafios.
                 Tenho um espírito colaborativo e gosto de <strong>trabalhar em equipe</strong>, pois acredito que o crescimento profissional acontece de forma mais rica quando compartilhamos experiências e aprendemos com pessoas mais experientes.
                 Meu foco é sempre <strong>me aprimorar</strong> e contribuir da melhor forma possível nos projetos em que estiver envolvido.
             </p>
