@@ -1,0 +1,12 @@
+h1,
+h2 {
+    color: #1F304C;
+}
+
+p {
+    font-size: 1.05em;
+}
+
+h2 > i {
+    margin-right: 16px;
+}
