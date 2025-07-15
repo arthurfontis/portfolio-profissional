@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio-profissional/static/css/main.db5783ee.css",
-    "main.js": "/portfolio-profissional/static/js/main.7bc4e055.js",
+    "main.css": "/portfolio-profissional/static/css/main.a1d53dda.css",
+    "main.js": "/portfolio-profissional/static/js/main.18f7755b.js",
     "static/js/453.3641ba00.chunk.js": "/portfolio-profissional/static/js/453.3641ba00.chunk.js",
     "static/media/fa-solid-900.ttf": "/portfolio-profissional/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/portfolio-profissional/static/media/fa-brands-400.1815e00441357e01619e.ttf",
     "static/media/fa-solid-900.woff2": "/portfolio-profissional/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
     "static/media/fa-brands-400.woff2": "/portfolio-profissional/static/media/fa-brands-400.c210719e60948b211a12.woff2",
     "static/media/logo-principal-semfundo.png": "/portfolio-profissional/static/media/logo-principal-semfundo.00533517326ce5090a4b.png",
+    "static/media/tela-flappy.png": "/portfolio-profissional/static/media/tela-flappy.b3c1a6ecc366974ee6be.png",
     "static/media/fa-regular-400.ttf": "/portfolio-profissional/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/calculadora_card_resized.png": "/portfolio-profissional/static/media/calculadora_card_resized.0024c1d2717ce383607b.png",
+    "static/media/jogo_memoria_card_resized.png": "/portfolio-profissional/static/media/jogo_memoria_card_resized.8a2188f0c7c8f8e41bf2.png",
     "static/media/fa-regular-400.woff2": "/portfolio-profissional/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/quiz_card_resized.png": "/portfolio-profissional/static/media/quiz_card_resized.859116c339d8b47e7bdb.png",
     "static/media/fa-v4compatibility.ttf": "/portfolio-profissional/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/portfolio-profissional/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/portfolio-profissional/index.html",
-    "main.db5783ee.css.map": "/portfolio-profissional/static/css/main.db5783ee.css.map",
-    "main.7bc4e055.js.map": "/portfolio-profissional/static/js/main.7bc4e055.js.map",
+    "main.a1d53dda.css.map": "/portfolio-profissional/static/css/main.a1d53dda.css.map",
+    "main.18f7755b.js.map": "/portfolio-profissional/static/js/main.18f7755b.js.map",
     "453.3641ba00.chunk.js.map": "/portfolio-profissional/static/js/453.3641ba00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db5783ee.css",
-    "static/js/main.7bc4e055.js"
+    "static/css/main.a1d53dda.css",
+    "static/js/main.18f7755b.js"
   ]
 }
