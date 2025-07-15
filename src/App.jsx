@@ -8,6 +8,7 @@ import Footer from "./components/Footer"
 import { BrowserRouter } from "react-router-dom";
 import AppRoutes from "./Routes";
 
+
 export default props =>
     <BrowserRouter basename="/portfolio-profissional">
         <div className="app">

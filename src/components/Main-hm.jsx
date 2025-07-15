@@ -7,7 +7,7 @@ export default props =>
         <div class="container py-4 home">
             <div class="p-4 p-md-5 mb-5 rounded text-body-emphasis bg-body-secondary">
                 <div class="col-lg-7 px-2">
-                    <h1 class="display-2 fst-italic">Olá, Seja bem vindo ao meu portfólio
+                    <h1 class="display-2 fst-italic">Olá, Seja bem-vindo ao meu portfólio
                     </h1>
                     <p class="lead my-4">Aqui você poderá descobrir um pouco sobre mim e sobre os projetos que já fiz ou estão em andamento ainda.</p>
                 </div>
